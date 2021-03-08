@@ -40,7 +40,7 @@
     "morgan-body": "2.4.5",
     "pjson": "^1.0.9",
     "sha1": "1.1.1",
-    "swagger-jsdoc": "1.9.7",
+    "swagger-jsdoc": "3.0.0",
     "swagger-ui-express": "3.0.10",
     "validator": "10.8.0"
   },
